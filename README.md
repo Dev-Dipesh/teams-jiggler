@@ -1,4 +1,4 @@
-# ☢️ Nuclear Jiggler
+# Teams Jiggler
 
 **Keep Microsoft Teams from marking you "Away" while you're working — even when you're reading, watching videos, or doing deep research.**
 
@@ -22,8 +22,8 @@ This crosshair-accurate macOS utility simulates real mouse movement and keypress
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/your-username/nuclear-jiggler.git
-   cd nuclear-jiggler
+   git clone https://github.com/your-username/teams-jiggler.git
+   cd teams-jiggler
    ```
 
 2. **Set up the Python virtual environment**
@@ -64,7 +64,7 @@ All activity is logged to `jiggler.log`.
 ## 🧼 Project Structure
 
 ```
-nuclear-jiggler/
+teams-jiggler/
 ├── jiggler.py            # Main Python script (activity trigger)
 ├── jiggler.applescript   # Runs jiggler.py every 4-5 mins
 ├── requirements.txt      # Python dependencies
@@ -96,7 +96,7 @@ Here’s a suggested section you can copy-paste straight in, or tweak as you lik
 
 ## 🧩 Potential Features & Community Contributions
 
-Want to make Nuclear Jiggler even more powerful or polished? Here are some ideas the community can help bring to life:
+Want to make Teams Jiggler even more powerful or polished? Here are some ideas the community can help bring to life:
 
 ### 💡 Ideas for Contribution
 

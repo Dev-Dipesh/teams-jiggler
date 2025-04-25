@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Mac OS metadata
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Log files
+jiggler.log
+
+# VS Code settings (optional)
+.vscode/
